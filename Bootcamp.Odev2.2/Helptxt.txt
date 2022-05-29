@@ -1,0 +1,4 @@
+﻿1) add-migration <migrationAdı> -v
+// add-migration init -v
+
+2)update-database -v

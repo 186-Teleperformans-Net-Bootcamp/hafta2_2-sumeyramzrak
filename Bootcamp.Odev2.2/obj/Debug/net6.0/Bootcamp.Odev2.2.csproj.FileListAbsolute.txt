@@ -1,0 +1,1 @@
+C:\Users\Sümeyra Mızrak\source\repos\Bootcamp.Odev2.2\Bootcamp.Odev2.2\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll

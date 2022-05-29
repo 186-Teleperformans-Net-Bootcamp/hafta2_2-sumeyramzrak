@@ -1,0 +1,7 @@
+Entity Framework Core ile Db tasarlayýn
+
+okul, sýnýf, öðrenci, öðretmen ve ders tablolarýný içerecek code first ile db tasarlayýn
+Her öðrenci bir okulda bir sýnýfta olmalý
+Her öðretmen sadece tek derse girmeli
+bir sýnýfta verilen dersler olmalý.
+Sadece class larý tanýmlayýn . iliþkileri kurun ve db ye migrate edin.
